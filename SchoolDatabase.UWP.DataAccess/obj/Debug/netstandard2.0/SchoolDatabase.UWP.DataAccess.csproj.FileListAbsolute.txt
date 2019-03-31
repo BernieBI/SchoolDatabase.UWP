@@ -1,0 +1,12 @@
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\bin\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.deps.json
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\bin\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\bin\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.pdb
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\bin\Debug\netstandard2.0\SchoolDatabase.UWP.Model.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\bin\Debug\netstandard2.0\SchoolDatabase.UWP.Model.pdb
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\obj\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.csprojAssemblyReference.cache
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\obj\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\obj\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.AssemblyInfoInputs.cache
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\obj\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.AssemblyInfo.cs
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\obj\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.csproj.CopyComplete
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\obj\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.DataAccess\obj\Debug\netstandard2.0\SchoolDatabase.UWP.DataAccess.pdb

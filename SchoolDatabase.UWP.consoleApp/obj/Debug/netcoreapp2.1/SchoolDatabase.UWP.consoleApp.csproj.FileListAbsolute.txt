@@ -1,0 +1,16 @@
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.deps.json
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.runtimeconfig.json
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.runtimeconfig.dev.json
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.pdb
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.DataAccess.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.Model.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.DataAccess.pdb
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\bin\Debug\netcoreapp2.1\SchoolDatabase.UWP.Model.pdb
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\obj\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.csprojAssemblyReference.cache
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\obj\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\obj\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.AssemblyInfoInputs.cache
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\obj\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.AssemblyInfo.cs
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\obj\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.csproj.CopyComplete
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\obj\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.consoleApp\obj\Debug\netcoreapp2.1\SchoolDatabase.UWP.consoleApp.pdb

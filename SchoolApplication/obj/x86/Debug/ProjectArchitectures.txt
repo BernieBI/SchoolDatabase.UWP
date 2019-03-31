@@ -1,0 +1,1 @@
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolApplication\SchoolApplication.csproj;x86

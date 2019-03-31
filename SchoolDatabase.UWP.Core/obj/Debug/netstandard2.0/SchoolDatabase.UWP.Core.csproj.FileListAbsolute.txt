@@ -1,0 +1,8 @@
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.Core\bin\Debug\netstandard2.0\SchoolDatabase.UWP.Core.deps.json
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.Core\bin\Debug\netstandard2.0\SchoolDatabase.UWP.Core.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.Core\bin\Debug\netstandard2.0\SchoolDatabase.UWP.Core.pdb
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.Core\obj\Debug\netstandard2.0\SchoolDatabase.UWP.Core.csproj.CoreCompileInputs.cache
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.Core\obj\Debug\netstandard2.0\SchoolDatabase.UWP.Core.AssemblyInfoInputs.cache
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.Core\obj\Debug\netstandard2.0\SchoolDatabase.UWP.Core.AssemblyInfo.cs
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.Core\obj\Debug\netstandard2.0\SchoolDatabase.UWP.Core.dll
+C:\Users\matsl\source\repos\SchoolDatabase.UWP\SchoolDatabase.UWP.Core\obj\Debug\netstandard2.0\SchoolDatabase.UWP.Core.pdb
